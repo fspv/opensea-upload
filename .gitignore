@@ -1,0 +1,8 @@
+opensea-automatic-bulk-upload-and-sale
+venv
+assets
+data
+app
+*.log
+images
+pyenv
